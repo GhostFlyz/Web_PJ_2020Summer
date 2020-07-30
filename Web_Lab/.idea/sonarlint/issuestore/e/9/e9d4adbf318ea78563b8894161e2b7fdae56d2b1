@@ -1,0 +1,35 @@
+
+E
+java:S1148x"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8»¼÷ ¹.
+E
+java:S1148."#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8»¼÷ ¹.
+m
+java:S1192+"KDefine a constant instead of duplicating this literal "dateJoined" 3 times.(¼ªİùÿÿÿÿ8Ò€Ğ¹.
+N
+java:S2692="10 is a valid index, but is ignored by this check.(Şê™µ8»¼÷ ¹.
+h
+java:S1192+"FDefine a constant instead of duplicating this literal "email" 3 times.(¼ªİùÿÿÿÿ8Ò€Ğ¹.
+h
+java:S1192+"FDefine a constant instead of duplicating this literal "State" 3 times.(¼ªİùÿÿÿÿ8Ò€Ğ¹.
+k
+java:S1192+"IDefine a constant instead of duplicating this literal "username" 3 times.(¼ªİùÿÿÿÿ8Ò€Ğ¹.
+E
+java:S1148M"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8»¼÷ ¹.
+E
+java:S1148c"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8Ò€Ğ¹.
+~
+java:S1488G"\Immediately return this expression instead of assigning it to the temporary variable "user".(Û¥ÉÍıÿÿÿÿ8»¼÷ ¹.
+W
+java:S1118
+":Add a private constructor to hide the implicit public one.(ÁÇæÅ8»¼÷ ¹.
+H
+java:S1168d"+Return an empty collection instead of null.(¥¹ï8Ò€Ğ¹.
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ä”òª
+m	java:S117!"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÛàŠÃ8»¼÷ ¹.
+E
+java:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8»¼÷ ¹.
+n	java:S117€"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Üœ¿Ä8«…‚Ğ¹.
+F
+java:S1148Š"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8«…‚Ğ¹.
+`
+java:S2259€"BA "NullPointerException" could be thrown; "user" is nullable here.(Üœ¿Ä8«…‚Ğ¹.

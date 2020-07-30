@@ -1,0 +1,14 @@
+
+E
+java:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8öÿŸ¹.
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ê§ö
+E
+java:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8öÿŸ¹.
+b
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(èÇÍó8öÿŸ¹.
+g
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(ò¨Ä§øÿÿÿÿ8öÿŸ¹.
+E
+java:S1148,"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8öÿŸ¹.
+O
+java:S4925"-Remove this "Class.forName()", it is useless.(¹µÖÁüÿÿÿÿ8Œ¥› ¹.

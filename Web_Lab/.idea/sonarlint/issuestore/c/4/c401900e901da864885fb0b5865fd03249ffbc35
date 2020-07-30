@@ -1,0 +1,29 @@
+
+H
+java:S1168i"+Return an empty collection instead of null.(¥¹ï8£üØÏ¹.
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ä”òª
+E
+java:S11480"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8£üØÏ¹.
+r	java:S117T"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(†ç–ºşÿÿÿÿ8£üØÏ¹.
+W
+java:S1118":Add a private constructor to hide the implicit public one.(¿ÅËõ8£üØÏ¹.
+I
+java:S1168•"+Return an empty collection instead of null.(¥¹ï8£üØÏ¹.
+n	java:S117…"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(³’ı8£üØÏ¹.
+j
+java:S1192`"HDefine a constant instead of duplicating this literal "fromUID" 3 times.(ç½Ó ıÿÿÿÿ8£üØÏ¹.
+m	java:S117o"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(˜¢Â½8£üØÏ¹.
+E
+java:S1148?"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8£üØÏ¹.
+E
+java:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8£üØÏ¹.
+E
+java:S1148N"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8£üØÏ¹.
+F
+java:S1148”"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8£üØÏ¹.
+H
+java:S1168"+Return an empty collection instead of null.(¥¹ï8£üØÏ¹.
+E
+java:S1148h"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8£üØÏ¹.
+E
+java:S1148~"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8£üØÏ¹.

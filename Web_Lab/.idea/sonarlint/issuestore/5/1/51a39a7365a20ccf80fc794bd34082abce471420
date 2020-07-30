@@ -1,0 +1,68 @@
+
+F
+java:S1148·"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8ËıÕ¹.
+s	java:S117¦"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ØÏµÑşÿÿÿÿ8Â­öÏ¹.
+F
+java:S1148Ÿ"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8Â­öÏ¹.
+r
+java:S2095‰"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(ÓŒÉÙøÿÿÿÿ8ËıÕ¹.
+r
+java:S2095®"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(··Üêûÿÿÿÿ8Â­öÏ¹.
+r
+java:S2095Å"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(··Üêûÿÿÿÿ8Â­öÏ¹.
+E
+java:S1148t"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8Â­öÏ¹.
+F
+java:S1148ä"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8«‰üÕ¹.
+s	java:S117¬"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(È‡Åûÿÿÿÿ8ËıÕ¹.
+r	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ôõæÛÿÿÿÿÿ8Â­öÏ¹.
+m	java:S117{"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(›¸á8Â­öÏ¹.
+s	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ûÇ£—ÿÿÿÿÿ8Â­öÏ¹.
+r
+java:S2095‹"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(±ßı”ıÿÿÿÿ8ËıÕ¹.
+e
+java:S1192$"HDefine a constant instead of duplicating this literal "ImageID" 3 times.(¯õÔ8Â­öÏ¹.
+9
+java:S1643Z"Use a StringBuilder instead.(ÓËÑ„8Â­öÏ¹.
+F
+java:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8ËıÕ¹.
+T
+java:S2692"10 is a valid index, but is ignored by this check.(óÜôŠúÿÿÿÿ8ËıÕ¹.
+i
+java:S3027"FPut single-quotes around ''' to use the faster "indexOf(char)" method.(óÜôŠúÿÿÿÿ8ËıÕ¹.
+s	java:S117®"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ûÇ£—ÿÿÿÿÿ8ËıÕ¹.
+s	java:S117À"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ûÇ£—ÿÿÿÿÿ8ËıÕ¹.
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ä”òª
+H
+java:S1168u"+Return an empty collection instead of null.(¥¹ï8Â­öÏ¹.
+c
+java:S1192U"FDefine a constant instead of duplicating this literal " DESC" 3 times.(úßøò8Â­öÏ¹.
+d
+java:S1126˜"AReplace this if-then-else statement by a single return statement.(òãã şÿÿÿÿ8Â­öÏ¹.
+F
+java:S1148†"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8Â­öÏ¹.
+E
+java:S11481"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8Â­öÏ¹.
+F
+java:S1148·"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8Â­öÏ¹.
+F
+java:S1148Ô"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8ËıÕ¹.
+F
+java:S1148ğ"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8ËıÕ¹.
+R
+java:S2695ù"/This "PreparedStatement" only has 8 parameters.(€ûìğùÿÿÿÿ8ËıÕ¹.
+F
+java:S1148ü"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8ËıÕ¹.
+C
+java:S1659à"&Declare "newWidth" on a separate line.(Ğüm8ËıÕ¹.
+\
+java:S1118":Add a private constructor to hide the implicit public one.(ğÒ„Ùıÿÿÿÿ8Â­öÏ¹.
+a
+java:S1155—">Use isEmpty() to check whether the collection is empty or not.(Ì¯øÜşÿÿÿÿ8ËıÕ¹.
+I
+java:S1168Õ"+Return an empty collection instead of null.(¥¹ï8ËıÕ¹.
+s	java:S117½"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(şÉÁïşÿÿÿÿ8Â­öÏ¹.
+F
+java:S1148Í"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8Â­öÏ¹.
+9
+java:S1643¡"Use a StringBuilder instead.(Å ø8ËıÕ¹.
