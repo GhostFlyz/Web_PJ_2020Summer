@@ -127,6 +127,7 @@
 
     </div>
 </div>
+<hr>
 <div class="foot"><span>Copyright © GhostFly</span></div>
 <script src="JS/SpecialEffect.js"></script>
 </body>

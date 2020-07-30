@@ -17,7 +17,7 @@
 <div class="jumbotron"
      style="margin:0;padding-left: 65px;background: linear-gradient(45deg,rgba(254,172,94,0.5),rgba(199,121,208,0.5),rgba(75,192,200,0.5));">
     <h1>Welcome, my travellers!</h1>
-    <p>Take a seat by the fire!</p>
+    <p>Take a seat by the fire!Here is Daddy Travel Agency~</p>
 </div>
 
 <!-- 轮播 -->
@@ -127,6 +127,7 @@
 
     </div>
 </div>
+<hr>
 <div class="foot"><span>Copyright © GhostFly</span></div>
 <script src="JS/SpecialEffect.js"></script>
 </body>

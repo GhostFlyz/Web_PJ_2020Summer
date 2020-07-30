@@ -1,6 +1,9 @@
 package Entity;
 
 import java.sql.Timestamp;
+import java.text.ParseException;
+import java.text.SimpleDateFormat;
+import java.util.Date;
 
 public class User {
     private String ID;
@@ -72,8 +75,12 @@ public class User {
         this.state = state;
     }
 
-    public Timestamp getDateJoined() {
-        return dateJoined;
+    public String getDateJoined() throws ParseException {
+        SimpleDateFormat sdf = new SimpleDateFormat("yyyy-MM-dd");
+        Date date = new Date(dateJoined.getTime());
+        String s = sdf.format(date);
+        Date date2 = sdf.parse(s);
+        return sdf.format(date2);
     }
 
     public void setDateJoined(Timestamp dateJoined) {

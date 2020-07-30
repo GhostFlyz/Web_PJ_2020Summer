@@ -28,7 +28,7 @@
                     String name = (String) session.getAttribute("username");
             %>
             <li class="dropdown">
-                <a href="#"> <span class="glyphicon glyphicon-user"></span> 欢迎! <%=name%>
+                <a href="#"> <span class="glyphicon glyphicon-user"></span><%=name%>
                 </a>
                 <ul class="dropdown-menu" style="left: 0">
                     <li><a href="/myfavour">我的收藏</a></li>

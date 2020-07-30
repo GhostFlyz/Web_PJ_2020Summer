@@ -277,7 +277,8 @@ public class PictureDAO {
             if (picture.getTitle().indexOf("'") > 0) {
                 title = title.replace("'", "\\'");
             }
-            result += "{\"PATH\":\"" + picture.getPath() + "\"," +
+            result +=
+                    "{\"PATH\":\"" + picture.getPath() + "\"," +
                     " \"Title\":\"" + title + "\"," +
                     " \"Author\":\"" + picture.getAuthor() + "\"," +
                     " \"Content\":\"" + picture.getContent() + "\"," +
@@ -357,6 +358,31 @@ public class PictureDAO {
             Graphics graphics = tag.getGraphics();
             graphics.drawImage(img, 0, 0, 150, 150, null);
             ImageIO.write(tag, "jpg", new File(squarePath));
+        } catch (IOException e) {
+            e.printStackTrace();
+        }
+    }
+
+    public static void createSmallImg(String originPath, String smallPath) {
+        try {
+            BufferedImage src = ImageIO.read(new File(originPath));
+            double srcHeight = src.getHeight();
+            double srcWidth = src.getWidth();
+            double newHeight, newWidth;
+            if (srcWidth > srcHeight) {
+                newHeight = 150;
+                newWidth = srcWidth / srcHeight * 150;
+            } else {
+                newWidth = 150;
+                newHeight = srcHeight / srcWidth * 150;
+            }
+            Image image = src.getScaledInstance((int) newWidth, (int) newHeight, Image.SCALE_DEFAULT);
+            ImageFilter cropFilter = new CropImageFilter(0,0, (int)newWidth, (int)newHeight);
+            Image img = Toolkit.getDefaultToolkit().createImage(new FilteredImageSource(image.getSource(), cropFilter));
+            BufferedImage tag = new BufferedImage((int)newWidth, (int)newHeight, BufferedImage.TYPE_INT_RGB);
+            Graphics graphics = tag.getGraphics();
+            graphics.drawImage(img, 0, 0, (int)newWidth, (int)newHeight, null);
+            ImageIO.write(tag, "jpg", new File(smallPath));
         } catch (IOException e) {
             e.printStackTrace();
         }

@@ -76,6 +76,7 @@ public class UpLoadServlet extends HttpServlet {
 
             PictureDAO.save(picture);
             PictureDAO.createSquareImg(getServletContext().getRealPath("/img") + "\\travel-images\\large\\" + imgName, getServletContext().getRealPath("/img") + "\\travel-images\\square-medium\\" + imgName);
+            PictureDAO.createSmallImg(getServletContext().getRealPath("/img") + "\\travel-images\\large\\" + imgName, getServletContext().getRealPath("/img") + "\\travel-images\\small\\" + imgName);
         }
         request.getRequestDispatcher("/myPhoto").forward(request, response);
     }
